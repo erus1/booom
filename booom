@@ -1,0 +1,7 @@
+import time
+
+for i in range(seconds):
+    print(str(seconds - i) + " Seconds Left")
+    time.sleep(10)
+
+print("Boooommmm")
