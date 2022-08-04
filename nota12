@@ -1,0 +1,14 @@
+#include <studio.lib>
+int main(int argc, char *agrv[])
+float nota1; nota2; nota3; media 
+
+print ("digite sua primeira nota")
+scanf ("%f" , nota1);
+print ("digite sua segunda nota")
+scanf ("%f" , nota2);
+print ("digite sua terceira nota")
+scanf ("%f" , nota3);
+
+media = (nota1 + nota2 + nota3)
+printf ("essa é sua média")
+scanf ("%f" , media);
